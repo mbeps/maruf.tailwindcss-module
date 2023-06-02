@@ -3,7 +3,7 @@
   "displayName": "Tailwind CSS Module",
   "description": "Contains extensions needed for Tailwind CSS",
   "author": "Maruf",
-  "repository": "",
+  "repository": "https://github.com/mbeps/maruf.tailwindcss-module",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
@@ -12,5 +12,7 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
+    "bradlc.vscode-tailwindcss",
+    "stivo.tailwind-fold"
   ]
 }
