@@ -1,0 +1,2 @@
+# AWS Cloud Module Language Module
+Contains extensions for assisting with development using AI. This extension can be used as profiles; for example, if AI Assistance development is needed, then this can be enabled which will also enable all the extension related to it in bulk. 

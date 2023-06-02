@@ -1,0 +1,16 @@
+{
+  "name": "tailwindcss-module",
+  "displayName": "Tailwind CSS Module",
+  "description": "Contains extensions needed for Tailwind CSS",
+  "author": "Maruf",
+  "repository": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+  ]
+}
